@@ -22,8 +22,8 @@ comp3133_101441732_assigment1
 ## Installation and Setup
 ### 1. Clone the Repository
 ```sh
-$ git clone https://github.com/Student#_COMP3133_StudentID_Assignment1.git
-$ cd Student#_COMP3133_StudentID_Assignment1
+$ git clone https://github.com/Gone-M/comp3133-assignment-1.git
+$ cd COMP3133_101441732_Assignment1
 ```
 
 ### 2. Install Dependencies
@@ -35,8 +35,8 @@ $ npm install
 Create a **.env** file in the root directory and add the following:
 ```
 PORT=4000
-MONGODB_URI=<your_mongodb_connection_string>
-JWT_SECRET=<your_jwt_secret>
+MONGODB_URI= ******************
+JWT_SECRET= *******************
 ```
 
 ### 4. Run the Server
